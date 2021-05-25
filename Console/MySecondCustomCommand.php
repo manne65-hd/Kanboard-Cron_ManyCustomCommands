@@ -34,7 +34,7 @@ class MySecondCustomCommand extends BaseCommand
     private function updatePriority()
     {
         $success = $this->taskModificationModel->update(array(
-            'id'       => 10109,
+            'id'       => 1,
             'priority' => 3,
         ));
 

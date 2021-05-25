@@ -35,7 +35,7 @@ class MyThirdCustomCommand extends BaseCommand
     {
         $success = $this->commentModel->create(array(
             'comment'  => 'A comment added via the Cron_ManyCustomCommands-Plugin.',
-            'task_id'  => 10109,
+            'task_id'  => 1,
             'user_id'  => 1,
         ));
 

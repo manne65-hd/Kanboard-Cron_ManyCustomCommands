@@ -10,6 +10,8 @@ I made this, while trying to figure out how to make a plugin that can act as a C
 
 If you plan to make a plugin that is supposed to add only ONE custom command to the CLI-interface ... [take a look at another version of this skeleton.](https://github.com/manne65-hd/Kanboard-Cron_SingleCustomCommand)
 
+If you are only interested in adding a new custom "batch"-command to the CLI, [take a look at this skeleton.](https://github.com/manne65-hd/Kanboard-Cron_TriggerMultipleCommands)
+
 
 ### Does is actually DO something?
 Yes ... this is in fact a fully functioning plugin in order to demonstrate the basic concept.

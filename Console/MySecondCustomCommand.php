@@ -8,7 +8,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 
 /**
- * Class MyFirstCustomCommand
+ * Class MySecondCustomCommand
  *
  */
 class MySecondCustomCommand extends BaseCommand
